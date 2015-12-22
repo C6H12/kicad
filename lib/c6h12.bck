@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS18B20
+D Programmable Resolution 1-Wire Digital Thermometer 
+F https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+$ENDCMP
+#
+$CMP G4A-1A-E
+D Miniature Single-pole Relay
+K relay
+$ENDCMP
+#
+$CMP KBPC1506WP
+D Silicon Bridge Rectifier
+$ENDCMP
+#
+$CMP PD
+D Photodiode
+$ENDCMP
+#
+$CMP RTX-MID
+D RF digital data transceiver working on the ISM free-license band of 433.92 MHz
+F http://wiki.ntb.ch/infoportal/_media/datenblaetter/funkmodul_aurel_rtx-mid-3v.pdf
+$ENDCMP
+#
+#End Doc Library
